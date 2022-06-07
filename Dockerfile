@@ -2,7 +2,7 @@ FROM python:3.9
 
 COPY test.py .
 
-COPY style.css .
+COPY styles.css .
 
 COPY match_full_time.csv .
 
